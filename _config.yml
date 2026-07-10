@@ -18,7 +18,8 @@ title: Tabrez Ahmed # the main title
 
 tagline: Read me like a Book. # it will display as the subtitle
 
-description: >- Shams Tabrez Ahmed's personal blog site # used by seo meta and the atom feed
+description: >- # used by seo meta and the atom feed
+  Shams Tabrez Ahmed's personal blog site
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
